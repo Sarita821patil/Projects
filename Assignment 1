@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <title>Sarita Patil-Portfolio</title>
+    </head>
+    <body>
+        <h1>Sarita Patil</h1>
+        <h2>About me</h2>
+        <p>My name is Sarita Patil,and I am from BasavaKalyan at post Algood. I am currently in my 3rd year of my college studying Artificial Intelligence and Machine Learning in HKBK College of Engineering,Karnataka.
+        <h3>SKILLS</h3>
+        <ul>
+            <li>Communication</li>
+            <li>Teamwork</li>
+            <li>Flexibility</li>
+        </ul>
+        <h4>INTERESTS</h4>
+        <ul>
+            <li>Reading</li>
+            <li>Listening to music</li>
+            <li>Dancing</li>
+        </ul>
+         <p>Email : saritapatil275@gmail.com</p>
+    </body>
+</html>
