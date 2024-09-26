@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+ <!-- Bootstrap CSS -->
+ <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+
+    <title>REAL-TIME COVID SYMPTOMS DETECTION</title>
+    <style>
+        .mynav{
+            border:2px solid black
+        }
+
+        #mybtn:hover{
+            background-color: rgba(255, 0, 0, 0);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light mynav" >
+            <div class="container-fluid">
+              <a class="navbar-brand" href="#">REAL-TIME COVID SYMPTOMS DETECTION</a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#aboutpage">About covid</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#Symptoms page">Symptoms page</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#contactpage">Contact Us</a>
+                  </li>
+                 
+                </ul>
+              </div>
+            </div>
+          </nav>
+
+          <h1 style="text-align: center;color:black;" class="display-1">REAL-TIME COVID SYMPTOMS DETECTION</h1>
+          <div class="row">
+            <div class="col-md-4">
+                
+            </div>
+            <div class="col-md-4">
+                <img src="C:\Users\sarit\OneDrive\Pictures\Desktop\python_project\image3.jpg" class="img-fluid" alt="" style="margin-top:50px;border:8px solid rgb(54, 117, 121)">
+            </div>
+            <div class="col-md-4">
+            
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-2">
+            </div>
+
+            <div class="col-md-8">
+                <p style="padding-top:20px;text-align: justify;" class="lead">Real-Time covid 19 symptoms Detectionis in Detecting COVID-19 symptoms using machine learning involves leveraging algorithms to identify patterns and features in data that are indicative of the disease. Here are the general steps involved in such a project: </p>
+            </div>
+            <div class="col-md-2">
+    
+            </div>
+          </div>
+           <!----About covid-->
+ 
+        <h1 style="text-align: center;color:rgb(54, 90, 121);" class="display-5" id="aboutpage">About covid</h1>
+
+        <hr style="width: 25%;" class="mx-auto">
+        <div class="row">
+            <div class="col-md-5">
+                <img src="C:\Users\sarit\OneDrive\Pictures\Desktop\python_project\image4.jpg" class="img-fluid" alt="">
+            </div>
+            <div class="col-md-7" style="padding-top: 30px;text-align: justify;">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem totam nulla natus est, quis pariatur impedit, ad velit laborum similique neque possimus quam quidem ea veritatis. Alias officiis eos aperiam.</p>
+                click here to read more: <a href="https://en.wikipedia.org/wiki/Covide_Symptoms_Detection">click</a>
+
+
+
+                <br>
+                <br>
+                <br>
+                <!-- <button style="background-color: yellow;padding:20px;color:brown;border:3px solid brown;border-radius: 20px;" id="mybtn">Contact Us</button> -->
+                <button class="btn btn-outline-info btn-lg" style="margin-left:250px">Contact Us</button>
+            </div>
+
+
+        </div>
+        <!----Symptoms page------>
+        <div id="Symptoms page">
+          <h1 style="text-align: center; color: rgb(89, 121, 54);" class="display-5" id="Symptoms-page">Symptoms page</h1>
+
+           <hr style="width: 25%;" class="mx-auto">
+
+           <div class="row">
+               <div class="col-md-3">
+                   <div class="card" style="width: 18rem;">
+                       <img src="C:\Users\sarit\OneDrive\Pictures\Desktop\python_project\image5.jpg" class="card-img-top" alt="...">
+                       <div class="card-body">
+                         <h5 class="card-title">Card title</h5>
+                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                         <a href="#" class="btn btn-primary">Go somewhere</a>
+                       </div>
+                     </div>
+               </div>
+               <div class="col-md-3">
+                <div class="card" style="width: 18rem;">
+                    <img src="C:\Users\sarit\OneDrive\Pictures\Desktop\python_project\image4.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                      <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                  </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card" style="width: 18rem;">
+                    <img src="C:\Users\sarit\OneDrive\Pictures\Desktop\python_project\image3.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                      <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                  </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card" style="width: 18rem;">
+                    <img src="C:\Users\sarit\OneDrive\Pictures\Desktop\python_project\image3.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                      <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                  </div>
+            </div>
+            <!---Contact Page-->
+
+          <div id="contactpage">
+            <h1 style="text-align: center;color:rgb(121, 54, 54);" class="display-5">Contact Us</h1>
+    
+            <hr style="width: 25%;" class="mx-auto">
+
+            <div class="row">
+                <div class="col-md-3">
+
+                </div>
+                <div class="col-md-6">
+                    <form action="">
+                        <label for="">Email</label><input type="email" placeholder="Enter your email" class="form-control" required>
+                        <br>
+                        <br>
+                        <label for="">Mobile No.</label><input type="number" placeholder="Enter your Phone No." class="form-control">
+                        <br>
+                        <br>
+                        <input type="submit" value="SUBMIT" class="btn btn-success" style="margin-left: 170px;">
+                    </form>
+                </div>
+                <div class="col-md-3">
+
+                </div>
+            </div>
+          </div>
+
+   
+
+    
+
+    
+ </body>
+</html>
